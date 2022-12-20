@@ -25,7 +25,7 @@
       "licenses": [
         "projects/debian-cloud/global/licenses/debian-11-bullseye"
       ],
-      "deviceName": "slave1",
+      "deviceName": "slave2",
       "autoDelete": true,
       "source": "projects/persuasive-zoo-372215/zones/europe-west1-b/disks/slave1",
       "index": 0,
