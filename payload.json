@@ -56,7 +56,7 @@
       }
     ]
   },
-  "name": "slave1",
+  "name": "slave2",
   "networkInterfaces": [
     {
       "stackType": "IPV4_ONLY",
